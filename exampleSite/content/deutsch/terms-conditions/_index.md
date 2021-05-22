@@ -1,8 +1,7 @@
 ---
-title: "Allgemeine Geschäftsbedingungen"
-subtitle: ""
-# meta description
-description: "Dies ist die Metabeschreibung"
+title: Allgemeine Geschäftsbedingungen
+subtitle: ''
+description: Dies ist die Metabeschreibung
 draft: false
 ---
 

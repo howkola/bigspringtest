@@ -1,16 +1,11 @@
 ---
-title: "Dies ist eine deutsche Testseite"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/blog/post-1.jpg"
-# post type (regular/featured)
-type: "featured"
-# meta description
-description: "Dies ist die Metabeschreibung"
-# post draft
+title: Dies ist eine deutsche Testseite
+date: 2020-04-18 04:07:21 Z
+image: images/blog/post-1.jpg
+type: featured
+description: Dies ist die Metabeschreibung
 draft: false
 ---
-
 
 #### Exemplarische Überschrift
 

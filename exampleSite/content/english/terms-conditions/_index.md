@@ -1,8 +1,7 @@
 ---
-title: "Terms of Service"
-subtitle: ""
-# meta description
-description: "This is meta description"
+title: Terms of Service
+subtitle: ''
+description: This is meta description
 draft: false
 ---
 

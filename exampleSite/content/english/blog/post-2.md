@@ -1,16 +1,11 @@
 ---
-title: "Pump-up the team morale and celebrate the excellence"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/blog/post-2.jpg"
-# post type (regular/featured)
-type: "regular"
-# meta description
-description: "This is meta description"
-# post draft
+title: Pump-up the team morale and celebrate the excellence
+date: 2020-04-18 04:07:21 Z
+image: images/blog/post-2.jpg
+type: regular
+description: This is meta description
 draft: false
 ---
-
 
 #### Heading example
 
